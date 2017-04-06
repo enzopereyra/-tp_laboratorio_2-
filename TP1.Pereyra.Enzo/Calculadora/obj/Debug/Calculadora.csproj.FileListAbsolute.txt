@@ -1,0 +1,7 @@
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\Calculadora\bin\Debug\Numero.dll
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\Calculadora\bin\Debug\Numero.pdb

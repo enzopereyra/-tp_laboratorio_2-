@@ -1,0 +1,13 @@
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\bin\Debug\TP1.Pereyra.Enzo.exe.config
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\bin\Debug\TP1.Pereyra.Enzo.exe
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\bin\Debug\TP1.Pereyra.Enzo.pdb
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\obj\Debug\TP1.Pereyra.Enzo.csprojResolveAssemblyReference.cache
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\obj\Debug\TP1.Pereyra.Enzo.Form1.resources
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\obj\Debug\TP1.Pereyra.Enzo.Properties.Resources.resources
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\obj\Debug\TP1.Pereyra.Enzo.csproj.GenerateResource.Cache
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\obj\Debug\TP1.Pereyra.Enzo.exe
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\obj\Debug\TP1.Pereyra.Enzo.pdb
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\bin\Debug\Numero.dll
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\bin\Debug\Numero.pdb
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\bin\Debug\Calculadora.dll
+C:\Users\enzo\Desktop\TP1 Laboratorio II\TP1.Pereyra.Enzo\TP1.Pereyra.Enzo\bin\Debug\Calculadora.pdb
