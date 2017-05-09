@@ -1,0 +1,4 @@
+c:\users\enzo\documents\visual studio 2012\Projects\Entidades\Entidades\bin\Debug\Entidades.dll
+c:\users\enzo\documents\visual studio 2012\Projects\Entidades\Entidades\bin\Debug\Entidades.pdb
+c:\users\enzo\documents\visual studio 2012\Projects\Entidades\Entidades\obj\Debug\Entidades.dll
+c:\users\enzo\documents\visual studio 2012\Projects\Entidades\Entidades\obj\Debug\Entidades.pdb

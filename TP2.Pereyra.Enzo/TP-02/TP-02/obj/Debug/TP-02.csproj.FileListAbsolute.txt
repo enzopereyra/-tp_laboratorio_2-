@@ -1,0 +1,8 @@
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\bin\Debug\TP-02.exe.config
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\bin\Debug\TP-02.exe
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\bin\Debug\TP-02.pdb
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\bin\Debug\Entidades.dll
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\bin\Debug\Entidades.pdb
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\obj\Debug\TP-02.exe
+c:\Users\enzo\documents\visual studio 2012\Projects\Entidades\TP-02\obj\Debug\TP-02.pdb
