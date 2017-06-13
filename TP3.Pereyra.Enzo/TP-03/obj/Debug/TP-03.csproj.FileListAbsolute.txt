@@ -1,0 +1,28 @@
+c:\users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\TP-03.exe.config
+c:\users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\TP-03.exe
+c:\users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\TP-03.pdb
+c:\users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\obj\Debug\TP-03.csprojResolveAssemblyReference.cache
+c:\users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\obj\Debug\TP-03.exe
+c:\users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\obj\Debug\TP-03.pdb
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\ClasesAbstractas.dll
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\ClasesInstanciables.dll
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\Excepciones.dll
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\ClasesAbstractas.pdb
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\ClasesInstanciables.pdb
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\Excepciones.pdb
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\Archivos.dll
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\TP-03\bin\Debug\Archivos.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\TP-03.exe.config
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\obj\Debug\TP-03.exe
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\obj\Debug\TP-03.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\TP-03.exe
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\TP-03.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\ClasesAbstractas.dll
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\ClasesInstanciables.dll
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\Excepciones.dll
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\Archivos.dll
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\ClasesAbstractas.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\ClasesInstanciables.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\Excepciones.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\bin\Debug\Archivos.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\TP-03\obj\Debug\TP-03.csprojResolveAssemblyReference.cache

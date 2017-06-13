@@ -1,0 +1,10 @@
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Archivos\bin\Debug\Archivos.dll
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Archivos\bin\Debug\Archivos.pdb
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Archivos\obj\Debug\Archivos.dll
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Archivos\obj\Debug\Archivos.pdb
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\Archivos\bin\Debug\Archivos.dll
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\Archivos\bin\Debug\Archivos.pdb
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\Archivos\obj\Debug\Archivos.dll
+C:\Users\enzo\Documents\GitHub\-tp_laboratorio_2-\TP3.Pereyra.Enzo\Archivos\obj\Debug\Archivos.pdb

@@ -1,0 +1,5 @@
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\enzo\Documents\Visual Studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache

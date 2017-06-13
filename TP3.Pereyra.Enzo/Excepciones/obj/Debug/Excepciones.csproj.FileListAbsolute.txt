@@ -1,0 +1,4 @@
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\enzo\documents\visual studio 2012\Projects\Pereyra.Enzo.2.D.TP-03\Excepciones\obj\Debug\Excepciones.pdb
